@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{55BD7A42-0863-4711-AC68-EEE1654658F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.csharp-calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="csharp_calculator.Test.Unit/InputConverterTest.cs">
+    <Files>
+      <File FileName="csharp_calculator.Test.Unit/UnitTest1.cs" Line="10" Column="15" />
+      <File FileName="csharp_calculator.Test.Unit/ConvertedInputTest.cs" Line="25" Column="2" />
+      <File FileName="csharp-calculator/InputConverter.cs" Line="10" Column="93" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="csharp_calculator" expanded="True">
+            <Node name="csharp_calculator.Test.Unit" expanded="True">
+              <Node name="InputConverterTest.cs" selected="True" />
+            </Node>
+            <Node name="csharp-calculator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="csharp_calculator" expanded="True">
+            <Node name="csharp_calculator.Test.Unit" expanded="True">
+              <Node name="csharp_calculator.Test.Unit" expanded="True" selected="True">
+                <Node name="CalculatorTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

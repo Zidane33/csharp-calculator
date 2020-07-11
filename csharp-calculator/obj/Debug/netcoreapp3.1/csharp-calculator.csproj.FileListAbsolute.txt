@@ -1,0 +1,12 @@
+/Users/zidan/Code/csharp_calculator/csharp-calculator/bin/Debug/netcoreapp3.1/csharp-calculator.deps.json
+/Users/zidan/Code/csharp_calculator/csharp-calculator/bin/Debug/netcoreapp3.1/csharp-calculator.runtimeconfig.json
+/Users/zidan/Code/csharp_calculator/csharp-calculator/bin/Debug/netcoreapp3.1/csharp-calculator.runtimeconfig.dev.json
+/Users/zidan/Code/csharp_calculator/csharp-calculator/bin/Debug/netcoreapp3.1/csharp-calculator.dll
+/Users/zidan/Code/csharp_calculator/csharp-calculator/bin/Debug/netcoreapp3.1/csharp-calculator.pdb
+/Users/zidan/Code/csharp_calculator/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.csprojAssemblyReference.cache
+/Users/zidan/Code/csharp_calculator/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.AssemblyInfoInputs.cache
+/Users/zidan/Code/csharp_calculator/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.AssemblyInfo.cs
+/Users/zidan/Code/csharp_calculator/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.csproj.CoreCompileInputs.cache
+/Users/zidan/Code/csharp_calculator/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.dll
+/Users/zidan/Code/csharp_calculator/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.pdb
+/Users/zidan/Code/csharp_calculator/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.genruntimeconfig.cache

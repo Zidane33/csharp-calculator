@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zidan/Code/csharp_calculator/csharp_calculator.Test.Unit/csharp_calculator.Test.Unit.csproj": {}
+  },
+  "projects": {
+    "/Users/zidan/Code/csharp_calculator/csharp-calculator/csharp-calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zidan/Code/csharp_calculator/csharp-calculator/csharp-calculator.csproj",
+        "projectName": "csharp-calculator",
+        "projectPath": "/Users/zidan/Code/csharp_calculator/csharp-calculator/csharp-calculator.csproj",
+        "packagesPath": "/Users/zidan/.nuget/packages/",
+        "outputPath": "/Users/zidan/Code/csharp_calculator/csharp-calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zidan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zidan/Code/csharp_calculator/csharp_calculator.Test.Unit/csharp_calculator.Test.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zidan/Code/csharp_calculator/csharp_calculator.Test.Unit/csharp_calculator.Test.Unit.csproj",
+        "projectName": "csharp_calculator.Test.Unit",
+        "projectPath": "/Users/zidan/Code/csharp_calculator/csharp_calculator.Test.Unit/csharp_calculator.Test.Unit.csproj",
+        "packagesPath": "/Users/zidan/.nuget/packages/",
+        "outputPath": "/Users/zidan/Code/csharp_calculator/csharp_calculator.Test.Unit/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zidan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/zidan/Code/csharp_calculator/csharp-calculator/csharp-calculator.csproj": {
+                "projectPath": "/Users/zidan/Code/csharp_calculator/csharp-calculator/csharp-calculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
